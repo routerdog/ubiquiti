@@ -1,2 +1,2 @@
-# ubiquity
-Repo for Ubiquity Network related files
+# ubiquiti
+Repo for Ubiquiti Network related files
